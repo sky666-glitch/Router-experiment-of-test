@@ -1,6 +1,6 @@
 # Research on Efficient Reasoning of Large Language Model Based on Routing Strategy 
 
-Implementation of LLM Routing,Graduation Project of City University of Macau.
+Implementation of LLM Routing,Graduation Project of City University of Macau.(复现指引)
 
 Existing large language model routing strategies focus on resource allocation optimization, while our RAGRouter framework optimizes the output space of semantic-syntactic feature alignment and knowledge enhancement through RAG vector retrieval enhancement technology.
 
